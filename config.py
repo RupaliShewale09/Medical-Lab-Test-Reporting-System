@@ -1,7 +1,7 @@
 
 
 MYSQL_USER = "root"
-MYSQL_PASSWORD = "Rupali09"
+MYSQL_PASSWORD = "your-pass"
 MYSQL_HOST = "localhost"
 MYSQL_DB = "medical_lab_db"
 
